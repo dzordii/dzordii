@@ -1,16 +1,16 @@
 <div>
   
   <h1 align="center">
-    Ola! Me chamo
-    <a href="https://www.linkedin.com/in/isaac-dzordi-168404281/" target="_blank">Isaac Dzordi</a>
+     Hi there! My name is
+    <a href="https://www.linkedin.com/in/isaac-dzordi-168404281/" target="_blank">Isaac Mello</a>
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor <strong>front-end</strong> de web-sites, e <strong>full-stack</strong> para o FiveM.
+    I'm developer <strong>full-stack.</strong>
   </p>
   
   <p align="center">
-    Atualmente estou cursando o segundo semestre de <strong>Ciência da Computação</strong> na faculdade da Estacio.
+    I'm cursing Software Engineer at UFRGS.
   </p>
   
 </div>
