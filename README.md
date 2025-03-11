@@ -22,17 +22,6 @@
   
 </div>
 
----
-
-## 📊 **Estatísticas do GitHub**  
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dzordii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&token=${{ secrets.GH_STATS_TOKEN }}"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzordii&layout=compact&theme=tokyonight"/>
-</div>
-
----
-
 ## 🌎 **Onde me encontrar:**  
 
 📩 **Email:** [dzordinetwork@email.com](mailto:dzordinetwork@gmail.com)  
