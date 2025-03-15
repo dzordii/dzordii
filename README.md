@@ -26,7 +26,7 @@
 
 📩 **Email:** [dzordinetwork@email.com](mailto:dzordinetwork@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/isaac-mello](https://linkedin.com/in/isaac-mello)  
-🚀 **Portfólio:** Em breve.. 
+🚀 **Portfólio:** [https://isaacmello-portfoliodev.netlify.app/](https://isaacmello-portfoliodev.netlify.app/)
 
 ---
 
